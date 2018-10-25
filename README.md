@@ -4,7 +4,7 @@ Lab3B is an assignment that I completed at the beginning of the year while takin
 
 ### **Installation**
 
-In order to install this project on your own computer simply right click on the link and save the file named Lab3B to a designated place on your computer. If you are only observing this for a few minutes, Lab3B.java is a copy of the code that would be useful to follow along with.  
+In order to install this project on your own computer simply click on the link named Lab3BFinal.zip click download, and save the folder to a designated place on your computer. If you are only observing this for a few minutes, Lab3B.java is a copy of the code that would be useful to follow along with.  
 
 ### **Usage**
 

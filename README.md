@@ -12,6 +12,7 @@ In order to install this project on your own computer, simply click on the link 
 ### **Usage**
 
 If you would like to run this program on your own computer, you have two options. The first, and easiest option, is to run the jar file from the command line. The other option consists of downloading the integrated development environment, NetBeans. In order for NetBeans to work properly, you must first visit oracles website and download Java. The first link is to download Java and the second is to download NetBeans.
+
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 https://netbeans.org/downloads/
@@ -38,6 +39,9 @@ In this section, I will thoroughly examine nearly every line in Lab3B. To get st
   - In lines 42-68, a while loop is created that will cycle through every row in the input file. Every time a new line is reached, a new map is created for the current row. Then, the comma separated values are put into an array list. Lastly, a for loop is created inside the while loop that populates the map by using the key names from the header row and the map is added to the data container. 
   - In line 72, the amount of records read is printed, and in line 76, the input file is closed. 
   - In lines 82-100 a for loop is created which cycles through the data. String variables are initialized and assigned to the information inside of the hash maps by using the getter method. For example, “ String firstname = row.get("FirstName"); ”.  At the end of the for loop, all of the information is neatly printed out in the form of address blocks, similar to how a letter would be formatted. This is accomplished by using the System.out.println function and positioning the variables correctly. In our case, we want the person’s full name printed on the top line, the person’s address on the second line, and the persons city, state, and zip code on the bottom line.
+
+![image](https://user-images.githubusercontent.com/44220245/47533111-1a141900-d878-11e8-84e2-bfddfad5134e.png)
+
 
 ### **Contributors**
 

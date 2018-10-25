@@ -1,22 +1,22 @@
 # Lab3B
 
-Lab3B is an assignment that I completed at the beginning of the year while taking Computer Programming II at Jacksonville State University. This assignment was designed to familiarize the class with arrays, array lists, and hash maps. This program reads 501 lines of input from a file, prints the number of records read, and correctly formats the information into address blocks. Lab3B was written in the programming language Java by using the integrated development environment, NetBeans. This program stores all of the data inside array lists and hash maps in order to sort and parse through the input file’s contents. 
+Lab3B is an assignment that I completed at the beginning of the year while taking Computer Programming II at Jacksonville State University. This assignment was designed to familiarize the class with arrays, array lists, and hash maps. This program reads 501 lines of input from a file, prints the number of records read, and correctly formats the information into address blocks. Lab3B was written in the programming language Java, by using the integrated development environment, NetBeans. This program stores all of the data inside array lists and hash maps in order to sort and parse through the input file’s contents. 
 
 ![lab3b](https://user-images.githubusercontent.com/44220245/47521684-41a7b900-d859-11e8-8893-238437c26259.PNG)
 
 
 ### **Installation**
 
-In order to install this project on your own computer, simply click on the link named Lab3BFinal.zip click download, and save the folder to a designated place on your computer. If you are only observing Lab3B for a few minutes, Lab3B.java is a copy of the code that would be useful to follow along with.  
+In order to install this project on your own computer, simply click on the link named Lab3BFinal.zip, click download, and save the folder to a designated place on your computer. If you are only observing Lab3B for a few minutes, Lab3B.java is a copy of the code that would be useful to follow along with.  
 
 ### **Usage**
 
-If you would like to run this program on your own computer, you have two options. The first, and easiest option, is to open the project folder, open the folder named dist, and double click the executable jar file named Lab3B. Whenever the jar file is opened, five hundred address blocks will be printed in a window. Depending on what type pf computer and operating system you are using this option may or may not work. If not, the other option consists of downloading the integrated development environment NetBeans. In order for NetBeans to work properly, you must first visit oracles website and download Java. The first link is to download Java and the second is to download NetBeans.
+If you would like to run this program on your own computer, you have two options. The first, and easiest option, is to run the jar file from the command line. The other option consists of downloading the integrated development environment, NetBeans. In order for NetBeans to work properly, you must first visit oracles website and download Java. The first link is to download Java and the second is to download NetBeans.
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 https://netbeans.org/downloads/
 
-Once you have Java and NetBeans downloaded, you will open NetBeans. Next, you will find and open the project folder that you downloaded in Installation. Lastly, you will click the clean and build project icon at the top left of the screen and then the green play button icon to the right of it to run the program.
+Once you have Java and NetBeans downloaded, open NetBeans. Next, you will find and open the project folder that you downloaded in Installation. Lastly, you will click the clean and build project icon at the top left of the screen and then the green play button icon to the right of it to run the program.
 
 ![image](https://user-images.githubusercontent.com/44220245/47520853-fee4e180-d856-11e8-9eb2-45e0e03bf872.png)
 

@@ -1,10 +1,10 @@
 # Lab3B
 
-  Lab3B is an assignment that I completed at the beginning of the year while taking Computer Programming II at Jacksonville State University. This assignment was designed to familiarize the class with arrays, array lists, and hash maps. This program reads five hundred lines of input from a file, prints the number of records read, and correctly formats the information into address blocks. Lab3B was written in the programming language Java by using the integrated development environment NetBeans. This program stores all of the data inside array lists and hash maps in order to sort and parse through the input file’s contents. 
+    Lab3B is an assignment that I completed at the beginning of the year while taking Computer Programming II at Jacksonville State University. This assignment was designed to familiarize the class with arrays, array lists, and hash maps. This program reads five hundred lines of input from a file, prints the number of records read, and correctly formats the information into address blocks. Lab3B was written in the programming language Java by using the integrated development environment NetBeans. This program stores all of the data inside array lists and hash maps in order to sort and parse through the input file’s contents. 
 
 ### **Installation**
 
-  In order to install this project on your own computer simply right click on the link and save the file to a designated place on your computer.
+    In order to install this project on your own computer simply right click on the link and save the file to a designated place on your computer.
 
 ### **Usage**
 
